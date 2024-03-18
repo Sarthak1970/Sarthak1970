@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sarthak1970
 - 👀 I’m interested in ... exploring the vast capabilities of machine learning
 - 🌱 I’m currently learning ... ML and Game Development.
-- 📫 How to reach me ...https://www.linkedin.com/in/sarthak-katiyar-598159293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him
 
 
