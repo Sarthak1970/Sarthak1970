@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sarthak1970
-- 👀 I’m interested in ... exploring the vast capabilities of machine learning
-- 🌱 I’m currently learning ... ML and Game Development.
 - 😄 Pronouns: He/Him
 
 
