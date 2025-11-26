@@ -20,14 +20,9 @@
 - 📫 How to reach me *sarthakkatiyar1970@gmail.com*
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak1970&show_icons=true&locale=en&theme=radical&layout=compact" alt="Top Languages" style="width: 40%;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak1970&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sarthak1970?theme=tokyonight" alt="GitHub Stats" />
+</div>
 
 
 <h1>👀 HacktoberFest Badges</h1></summary>
