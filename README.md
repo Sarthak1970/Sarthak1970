@@ -19,11 +19,6 @@
 
 - 📫 How to reach me *sarthakkatiyar1970@gmail.com*
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sarthak1970?theme=tokyonight" alt="GitHub Stats" />
-</div>
-
 
 <h1>👀 HacktoberFest Badges</h1></summary>
   <div align="center">
